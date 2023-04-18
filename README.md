@@ -14,15 +14,17 @@ This project aims to develop a natural language processing (NLP) model capable o
 
 ## Index of Deliverables
 
-- The final Jupyter notebook is [main.ipynb](main.ipynb).
+- [Final Jupyter notebook](Final_NLP_Project.ipynb)
 
-- The final report can be found [here](Report.pdf).
+- [Report](Report.pdf)
+
+- [Presentation Slides](NLP_Presentation_Slides.pdf)
+
+- [Artist's statement](ArtistsStatement.pdf)
 
 - The `experiments/` directory contains all the Jupyter notebooks that we worked on while working on this project.
 
 - The `dataset/` directory contains the CSV dataset that we obtained from [Kaggle](https://www.kaggle.com/datasets/nasirkhalid24/the-office-us-complete-dialoguetranscript?resource=download).
-
-- Since we are generating artwork, we are including an [artist's statement](ArtistsStatement.pdf) as instructed.
 
 ---
 
