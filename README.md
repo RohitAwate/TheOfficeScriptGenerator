@@ -16,7 +16,7 @@ This project aims to develop a natural language processing (NLP) model capable o
 
 - [Final Jupyter notebook](Final_NLP_Project.ipynb)
 
-- [Report](Report.pdf)
+- [Report](ProjectReport_ArtistsStatement.pdf)
 
 - [Presentation Slides](NLP_Presentation_Slides.pdf)
 
